@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fábio Albuquerque – @albuquerquefabio
 - I'm Web/JS dev since 2012 as professional.
-- I'm a huge fan of open source community and also i intend to share with then my knowledges.
+- I'm a huge fan of open source community and also i intend to share with them my knowledges.
 
 
 
